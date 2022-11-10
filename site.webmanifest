@@ -1,0 +1,23 @@
+   {
+    "name": "Surah Yaseen",
+    "short_name": "Surah Yaseen",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZGuUQYtGSh724IWmtq7v2c1SaGWoWQZjPBhgUK6_E2tDjWufJLHDjDH7rfp3cBW7H-H7JWEbL6JgOuK5mr_Tj9hlRr9vWMXIS-TtlHm7LIRUuspuyuud0Kr2PyPtGpR9tlYgvA5AIojw98rmH5W4vAQ6nZSNS8FfDMJ634O_ngD6FpCyt1cYVMD6wMw/s16000/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrM2Nv3JBIO_k0KVtn5fHDBTLYFDY3HRg8E9-PkKAQ0cOnaDcx3yfDmppKhhrJwhw3US-hSbWtURSUHQ1lchMpwrz2LTdCPgAdgHI8GKp_qxzBvM-PJ3pfqoewI7vQwZlyaFGk0oFcr7TFy31oB3iscOipYhCwkZ78Q-dE-YjBRxbmYd3VJ47TLppYsw/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.surahyaseenpdf.com"
+}
